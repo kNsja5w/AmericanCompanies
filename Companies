@@ -1,0 +1,165 @@
+### American Company Domain and Title Blacklist (Alphabetical)
+
+#### A
+*://*.abc.com/*
+*://*.adobe.com/*
+*://*.airbnb.com/*
+*://*.alaskaair.com/*
+*://*.allstate.com/*
+*://*.alphabet.com/*
+*://*.amazon.com/*
+title/ABC/
+title/Adobe/
+title/Airbnb/
+title/Alaska Airlines/
+title/Allstate/
+title/Alphabet/
+title/Amazon/
+
+#### B
+*://*.bankofamerica.com/*
+*://*.barnesandnoble.com/*
+*://*.bestbuy.com/*
+*://*.bloomberg.com/*
+*://*.boeing.com/*
+title/Bank of America/
+title/Barnes & Noble/
+title/Best Buy/
+title/Bloomberg/
+title/Boeing/
+
+#### C
+*://*.capitalone.com/*
+*://*.cbs.com/*
+*://*.chevron.com/*
+*://*.chrysler.com/*
+*://*.cisco.com/*
+title/Capital One/
+title/CBS/
+title/Chevron/
+title/Chrysler/
+title/Cisco/
+
+#### D
+*://*.dell.com/*
+*://*.disney.com/*
+*://*.dominos.com/*
+title/Dell/
+title/Disney/
+title/Domino's/
+
+#### E
+*://*.ea.com/*
+*://*.ebay.com/*
+*://*.espn.com/*
+title/EA/
+title/eBay/
+title/ESPN/
+
+#### F
+*://*.facebook.com/*
+*://*.ford.com/*
+*://*.foxnews.com/*
+title/Facebook/
+title/Ford/
+title/Fox News/
+
+#### G
+*://*.gap.com/*
+*://*.generalmotors.com/*
+*://*.goldmansachs.com/*
+title/Gap/
+title/General Motors/
+title/Goldman Sachs/
+
+#### H
+*://*.harley-davidson.com/*
+*://*.hbo.com/*
+*://*.homedepot.com/*
+title/Harley-Davidson/
+title/HBO/
+title/Home Depot/
+
+#### I
+*://*.ibm.com/*
+*://*.intel.com/*
+title/IBM/
+title/Intel/
+
+#### J
+*://*.jpmorganchase.com/*
+title/JP Morgan Chase/
+
+#### K
+*://*.kmart.com/*
+title/Kmart/
+
+#### L
+*://*.levis.com/*
+title/Levi's/
+
+#### M
+*://*.marriott.com/*
+*://*.mcdonalds.com/*
+title/Marriott/
+title/McDonald's/
+
+#### N
+*://*.nasdaq.com/*
+*://*.netflix.com/*
+title/Nasdaq/
+title/Netflix/
+
+#### O
+*://*.oracle.com/*
+title/Oracle/
+
+#### P
+*://*.paypal.com/*
+title/PayPal/
+
+#### Q
+*://*.qualcomm.com/*
+title/Qualcomm/
+
+#### R
+*://*.ralphlauren.com/*
+title/Ralph Lauren/
+
+#### S
+*://*.sears.com/*
+*://*.starbucks.com/*
+title/Sears/
+title/Starbucks/
+
+#### T
+*://*.target.com/*
+*://*.tesla.com/*
+title/Target/
+title/Tesla/
+
+#### U
+*://*.uber.com/*
+title/Uber/
+
+#### V
+*://*.verizon.com/*
+title/Verizon/
+
+#### W
+*://*.walmart.com/*
+*://*.wellsfargo.com/*
+title/Walmart/
+title/Wells Fargo/
+
+#### X
+*://*.xerox.com/*
+title/Xerox/
+
+#### Y
+*://*.yahoo.com/*
+title/Yahoo/
+
+#### Z
+*://*.zynga.com/*
+title/Zynga/
