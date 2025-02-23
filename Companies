@@ -1,165 +1,481 @@
-### American Company Domain and Title Blacklist (Alphabetical)
+A
 
-#### A
-*://*.abc.com/*
-*://*.adobe.com/*
-*://*.airbnb.com/*
-*://*.alaskaair.com/*
-*://*.allstate.com/*
-*://*.alphabet.com/*
-*://*.amazon.com/*
+://.abc.com/*
+://.adobe.com/*
+://.aetna.com/*
+://.airbnb.com/*
+://.alaskaair.com/*
+://.allstate.com/*
+://.alphabet.com/*
+://.amazon.com/*
+://.amd.com/*
+://.aol.com/*
+://.apple.com/*
+://.applebees.com/*
+://.att.com/*
 title/ABC/
 title/Adobe/
+title/Aetna/
 title/Airbnb/
 title/Alaska Airlines/
 title/Allstate/
 title/Alphabet/
 title/Amazon/
+title/AMD/
+title/AOL/
+title/Apple/
+title/Applebee's/
+title/AT&T/
 
-#### B
-*://*.bankofamerica.com/*
-*://*.barnesandnoble.com/*
-*://*.bestbuy.com/*
-*://*.bloomberg.com/*
-*://*.boeing.com/*
+B
+
+://.bankofamerica.com/*
+://.barnesandnoble.com/*
+://.bedbathandbeyond.com/*
+://.bestbuy.com/*
+://.bestwestern.com/*
+://.blackrock.com/*
+://.blockbuster.com/*
+://.bloomberg.com/*
+://.blueapron.com/*
+://.boeing.com/*
+://.booking.com/*
 title/Bank of America/
 title/Barnes & Noble/
+title/Bed Bath & Beyond/
 title/Best Buy/
+title/Best Western/
+title/BlackRock/
+title/Blockbuster/
 title/Bloomberg/
+title/Blue Apron/
 title/Boeing/
+title/Booking.com/
 
-#### C
-*://*.capitalone.com/*
-*://*.cbs.com/*
-*://*.chevron.com/*
-*://*.chrysler.com/*
-*://*.cisco.com/*
+C
+
+://.capitalone.com/*
+://.caterpillar.com/*
+://.cbs.com/*
+://.centurylink.com/*
+://.chevron.com/*
+://.chewy.com/*
+://.chipotle.com/*
+://.chrysler.com/*
+://.cisco.com/*
+://.citibank.com/*
+://.cnn.com/*
+://.comcast.com/*
+://.costco.com/*
+://.craigslist.org/*
 title/Capital One/
+title/Caterpillar/
 title/CBS/
+title/CenturyLink/
 title/Chevron/
+title/Chewy/
+title/Chipotle/
 title/Chrysler/
 title/Cisco/
+title/Citibank/
+title/CNN/
+title/Comcast/
+title/Costco/
+title/Craigslist/
 
-#### D
-*://*.dell.com/*
-*://*.disney.com/*
-*://*.dominos.com/*
+D
+
+://.dell.com/*
+://.dickssportinggoods.com/*
+://.dish.com/*
+://.disney.com/*
+://.dollargeneral.com/*
+://.dominos.com/*
+://.dowjones.com/*
+://.dropbox.com/*
+://.dunkindonuts.com/*
 title/Dell/
+title/Dick's Sporting Goods/
+title/Dish Network/
 title/Disney/
+title/Dollar General/
 title/Domino's/
+title/Dow Jones/
+title/Dropbox/
+title/Dunkin' Donuts/
 
-#### E
-*://*.ea.com/*
-*://*.ebay.com/*
-*://*.espn.com/*
+E
+
+://.ea.com/*
+://.ebay.com/*
+://.eddiebauer.com/*
+://.espn.com/*
+://.etsy.com/*
+://.expedia.com/*
+://.exxonmobil.com/*
 title/EA/
 title/eBay/
+title/Eddie Bauer/
 title/ESPN/
+title/Etsy/
+title/Expedia/
+title/ExxonMobil/
 
-#### F
-*://*.facebook.com/*
-*://*.ford.com/*
-*://*.foxnews.com/*
+F
+
+://.facebook.com/*
+://.fedex.com/*
+://.fidelity.com/*
+://.fifththird.com/*
+://.fitbit.com/*
+://.ford.com/*
+://.footlocker.com/*
+://.foxnews.com/*
+://.flickr.com/*
 title/Facebook/
+title/FedEx/
+title/Fidelity/
+title/Fifth Third Bank/
+title/Fitbit/
 title/Ford/
+title/Foot Locker/
 title/Fox News/
+title/Flickr/
 
-#### G
-*://*.gap.com/*
-*://*.generalmotors.com/*
-*://*.goldmansachs.com/*
+G
+
+://.gap.com/*
+://.generalmotors.com/*
+://.gillette.com/*
+://.godaddy.com/*
+://.goldmansachs.com/*
+://.googles.com/*
+://.goodyear.com/*
+://.gopro.com/*
+://.groupon.com/*
+://.grubhub.com/*
 title/Gap/
 title/General Motors/
+title/Gillette/
+title/GoDaddy/
 title/Goldman Sachs/
+title/Google/
+title/Goodyear/
+title/GoPro/
+title/Groupon/
+title/Grubhub/
 
-#### H
-*://*.harley-davidson.com/*
-*://*.hbo.com/*
-*://*.homedepot.com/*
+H
+
+://.hallmark.com/*
+://.harley-davidson.com/*
+://.hbo.com/*
+://.hilton.com/*
+://.honda.com/*
+://.homedepot.com/*
+://.hp.com/*
+://.huffpost.com/*
+://.hulu.com/*
+title/Hallmark/
 title/Harley-Davidson/
 title/HBO/
+title/Hilton/
+title/Honda/
 title/Home Depot/
+title/HP/
+title/HuffPost/
+title/Hulu/
 
-#### I
-*://*.ibm.com/*
-*://*.intel.com/*
+I
+
+://.ibm.com/*
+://.ikea.com/*
+://.imdb.com/*
+://.intel.com/*
+://.instagram.com/*
+://.intuit.com/*
 title/IBM/
+title/IKEA/
+title/IMDb/
 title/Intel/
+title/Instagram/
+title/Intuit/
 
-#### J
-*://*.jpmorganchase.com/*
+J
+
+://.jetblue.com/*
+://.jimbeam.com/*
+://.johnsoncontrols.com/*
+://.jpmorganchase.com/*
+://.jcrew.com/*
+title/JetBlue/
+title/Jim Beam/
+title/Johnson Controls/
 title/JP Morgan Chase/
+title/J.Crew/
 
-#### K
-*://*.kmart.com/*
+K
+
+://.kayak.com/*
+://.kelloggs.com/*
+://.kfc.com/*
+://.kickstarter.com/*
+://.kohler.com/*
+://.kmart.com/*
+://.kohls.com/*
+title/Kayak/
+title/Kellogg's/
+title/KFC/
+title/Kickstarter/
+title/Kohler/
 title/Kmart/
+title/Kohl's/
 
-#### L
-*://*.levis.com/*
+L
+
+://.lendingtree.com/*
+://.lenovo.com/*
+://.levis.com/*
+://.libertymutual.com/*
+://.linkedin.com/*
+://.lowes.com/*
+://.lululemon.com/*
+://.lyft.com/*
+title/LendingTree/
+title/Lenovo/
 title/Levi's/
+title/Liberty Mutual/
+title/LinkedIn/
+title/Lowe's/
+title/Lululemon/
+title/Lyft/
 
-#### M
-*://*.marriott.com/*
-*://*.mcdonalds.com/*
+M
+
+://.macy.com/*
+://.mailchimp.com/*
+://.marriott.com/*
+://.mastercard.com/*
+://.mattel.com/*
+://.mcdonalds.com/*
+://.microsoft.com/*
+://.mozilla.org/*
+title/Macy's/
+title/Mailchimp/
 title/Marriott/
+title/Mastercard/
+title/Mattel/
 title/McDonald's/
+title/Microsoft/
+title/Mozilla/
 
-#### N
-*://*.nasdaq.com/*
-*://*.netflix.com/*
+N
+
+://.nasdaq.com/*
+://.nationalgeographic.com/*
+://.nba.com/*
+://.netflix.com/*
+://.nestle.com/*
+://.newbalance.com/*
+://.newegg.com/*
+://.nike.com/*
+://.nvidia.com/*
 title/Nasdaq/
+title/National Geographic/
+title/NBA/
 title/Netflix/
+title/Nestlé/
+title/New Balance/
+title/Newegg/
+title/Nike/
+title/Nvidia/
 
-#### O
-*://*.oracle.com/*
+O
+
+://.officedepot.com/*
+://.oldnavy.com/*
+://.olivegarden.com/*
+://.oracle.com/*
+://.orbitz.com/*
+://.oreillyauto.com/*
+://.overstock.com/*
+title/Office Depot/
+title/Old Navy/
+title/Olive Garden/
 title/Oracle/
+title/Orbitz/
+title/O'Reilly Auto Parts/
+title/Overstock/
 
-#### P
-*://*.paypal.com/*
+P
+
+://.pandora.com/*
+://.panerabread.com/*
+://.papa.com/*
+://.paychex.com/*
+://.paypal.com/*
+://.pepsico.com/*
+://.pinterest.com/*
+title/Pandora/
+title/Panera Bread/
+title/Papa John's/
+title/Paychex/
 title/PayPal/
+title/PepsiCo/
+title/Pinterest/
 
-#### Q
-*://*.qualcomm.com/*
+Q
+
+://.qualcomm.com/*
+://.quickenloans.com/*
+://.quiznos.com/*
+://.quora.com/*
 title/Qualcomm/
+title/Quicken Loans/
+title/Quiznos/
+title/Quora/
 
-#### R
-*://*.ralphlauren.com/*
+R
+
+://.ralphlauren.com/*
+://.ramada.com/*
+://.redrobin.com/*
+://.remax.com/*
+://.restaurant.com/*
+://.riteaid.com/*
+://.roku.com/*
+://.reddit.com/*
 title/Ralph Lauren/
+title/Ramada/
+title/Red Robin/
+title/RE/MAX/
+title/Restaurant.com/
+title/Rite Aid/
+title/Roku/
+title/Reddit/
 
-#### S
-*://*.sears.com/*
-*://*.starbucks.com/*
+S
+
+://.safeway.com/*
+://.salesforce.com/*
+://.samsclub.com/*
+://.sap.com/*
+://.sears.com/*
+://.sephora.com/*
+://.snapchat.com/*
+://.starbucks.com/*
+://.tacobell.com/*
+title/Safeway/
+title/Salesforce/
+title/Sam's Club/
+title/SAP/
 title/Sears/
+title/Sephora/
+title/Snapchat/
 title/Starbucks/
+title/Taco Bell/
 
-#### T
-*://*.target.com/*
-*://*.tesla.com/*
+T
+
+://.target.com/*
+://.tesla.com/*
+://.ticketmaster.com/*
+://.tiffany.com/*
+://.tinder.com/*
+://.tjmaxx.com/*
+://.tripadvisor.com/*
+://.twitter.com/*
 title/Target/
 title/Tesla/
+title/Ticketmaster/
+title/Tiffany & Co./
+title/Tinder/
+title/T.J. Maxx/
+title/TripAdvisor/
+title/Twitter/
 
-#### U
-*://*.uber.com/*
+U
+
+://.uber.com/*
+://.underarmour.com/*
+://.united.com/*
+://.usaa.com/*
+://.usbank.com/*
+://.uscellular.com/*
 title/Uber/
+title/Under Armour/
+title/United Airlines/
+title/USAA/
+title/U.S. Bank/
+title/U.S. Cellular/
 
-#### V
-*://*.verizon.com/*
+V
+
+://.valero.com/*
+://.venmo.com/*
+://.verizon.com/*
+://.verizonwireless.com/*
+://.vimeo.com/*
+://.virginamerica.com/*
+://.visa.com/*
+title/Valero/
+title/Venmo/
 title/Verizon/
+title/Verizon Wireless/
+title/Vimeo/
+title/Virgin America/
+title/Visa/
 
-#### W
-*://*.walmart.com/*
-*://*.wellsfargo.com/*
+W
+
+://.walmart.com/*
+://.warbyparker.com/*
+://.washingtonpost.com/*
+://.wayfair.com/*
+://.wellsfargo.com/*
+://.wendys.com/*
+://.whatsapp.com/*
 title/Walmart/
+title/Warby Parker/
+title/The Washington Post/
+title/Wayfair/
 title/Wells Fargo/
+title/Wendy's/
+title/WhatsApp/
 
-#### X
-*://*.xerox.com/*
+X
+
+://.xbox.com/*
+://.xerox.com/*
+://.xfinity.com/*
+title/Xbox/
 title/Xerox/
+title/Xfinity/
 
-#### Y
-*://*.yahoo.com/*
+Y
+
+://.yahoo.com/*
+://.yamaha.com/*
+://.yelp.com/*
+://.yellowpages.com/*
+://.yeti.com/*
 title/Yahoo/
+title/Yamaha/
+title/Yelp/
+title/Yellow Pages/
+title/Yeti/
 
-#### Z
-*://*.zynga.com/*
+Z
+
+://.zappos.com/*
+://.zillow.com/*
+://.zipcar.com/*
+://.zocdoc.com/*
+://.zulily.com/*
+://.zynga.com/*
+title/Zappos/
+title/Zillow/
+title/Zipcar/
+title/Zocdoc/
+title/Zulily/
 title/Zynga/
